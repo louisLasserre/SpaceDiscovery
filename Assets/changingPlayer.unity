@@ -247,6 +247,7 @@ MonoBehaviour:
   Anchor2: {fileID: 822315395}
   posPlayer1: {fileID: 774590190}
   posPlayer2: {fileID: 822315391}
+  BoxColl2: {fileID: 822315392}
   chosenPlayer: 0
   lastSoloPlayed: 1
   HaveToGetTogether: 0
@@ -380,7 +381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectrb2D: {fileID: 774590192}
-  moveSpeed: 20
+  moveSpeed: 60
   jumpSpeed: 30
   groundedDistance: 1
   groundedMask:
